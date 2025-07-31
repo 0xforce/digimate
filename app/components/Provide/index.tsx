@@ -47,7 +47,7 @@ const Provide = () => {
                     <div className='col-span-6 flex justify-center'>
                         <div className="flex flex-col align-middle justify-center p-10">
                             <p className="text-4xl lg:text-6xl pt-4 font-semibold lh-81 mt-5 text-center lg:text-start">We provide that service.</p>
-                            <h4 className="text-lg pt-4 font-normal lh-33 text-center lg:text-start text-bluegray">Transform your dealership's lead generation with our specialized automotive marketing services. We deliver qualified, buy-ready prospects directly to your sales team with real-time notifications and automated follow-up systems.</h4>
+                            <h4 className="text-lg pt-4 font-normal lh-33 text-center lg:text-start text-bluegray">Transform your dealership&apos;s lead generation with our specialized automotive marketing services. We deliver qualified, buy-ready prospects directly to your sales team with real-time notifications and automated follow-up systems.</h4>
                             <button className="mt-4 text-xl font-medium text-blue flex gap-2 mx-auto lg:mx-0 space-links" onClick={() => handleSmoothScroll('contact')}>Learn more <Image src={'/assets/provide/arrow.svg'} alt={'arrow'} width={20} height={20} /></button>
                         </div>
                     </div>

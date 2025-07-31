@@ -22,7 +22,7 @@ const Newsletter = () => {
                     {/* COLUMN-2 */}
                     <div className="p-10 flex flex-col justify-center">
                         <h3 className="text-4xl md:text-5xl font-semibold mb-3 text-white">Get in touch with us.</h3>
-                        <h4 className="text-base font-normal mb-7 text-offwhite">Ready to transform your dealership's lead generation? Contact us today for a free consultation.</h4>
+                        <h4 className="text-base font-normal mb-7 text-offwhite">Ready to transform your dealership&apos;s lead generation? Contact us today for a free consultation.</h4>
                         
                         <div className="space-y-4">
                             <div className="flex items-center gap-3">
