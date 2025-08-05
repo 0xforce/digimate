@@ -31,7 +31,7 @@ const Newsletter = () => {
                                 </div>
                                 <div>
                                     <p className="text-white font-medium">Phone</p>
-                                    <p className="text-offwhite text-sm">+1 (555) 123-4567</p>
+                                    <p className="text-offwhite text-sm">+1 (954) 214-4403</p>
                                 </div>
                             </div>
                             

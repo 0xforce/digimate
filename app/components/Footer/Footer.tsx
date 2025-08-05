@@ -49,7 +49,7 @@ const footer = () => {
                         </div>
                         <div className="flex gap-2 mt-10">
                             <Image src={'/assets/footer/telephone.svg'} alt="telephone-icon" width={24} height={24} />
-                            <h5 className="text-base font-normal text-offwhite">+ 45 34 11 44 11</h5>
+                            <h5 className="text-base font-normal text-offwhite">+1 (954) 214-4403</h5>
                         </div>
                         <div className="flex gap-2 mt-10">
                             <Image src={'/assets/footer/email.svg'} alt="email-icon" width={24} height={24} />
